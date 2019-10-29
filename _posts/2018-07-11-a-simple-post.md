@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quaker Quote
-author: john_doe
+author: dan_urbanowicz
 date: 2018-07-11T00:12:57.000Z
 intro_paragraph: '## Good evening. Leave me alone eternally.'
 categories: ''
